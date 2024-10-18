@@ -1,0 +1,88 @@
+newmtl Stones_v1:lambert11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Cliffs0174_9_L.jpg
+bump Cliffs0174_9_L.jpg -bm 1
+Ni 1.00
+newmtl Stones_v1:rock_mat_v1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -mm 0.123293 1 Cliffs0174_9_L.jpg
+bump -mm 0.123293 1 Cliffs0174_9_L.jpg -bm 1
+Ni 1.00
+newmtl pasted__Brick_Tumbled
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Brick_Tumbled.jpg
+Ni 1.00
+newmtl pasted__Color_003
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Color_003.jpg
+bump Color_003.jpg -bm 0.25
+Ni 1.00
+newmtl pasted__Color_007
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd -s 0.2 0.1 TexturesCom_MedievalCobblestone_2048_albedo copy.jpg
+Ni 1.00
+newmtl pasted__Concrete_Aggregate_Smoke
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Concrete_Aggregate_Smoke.jpg
+Ni 1.00
+newmtl pasted__Google_Earth_Snapshot
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd TexturesCom_MedievalCobblestone_2048_albedo copy.jpg
+bump TexturesCom_MedievalCobblestone_2048_albedo copy.jpg -bm 0.1
+Ni 1.00
+newmtl pasted__Water_Sparkling
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Water_Sparkling copy.jpg
+bump Water_Sparkling copy.jpg -bm 0.1
+Ni 1.00
+newmtl pasted___1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd _1.jpg
+Ni 1.00
+newmtl pasted___3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd _3.jpg
+Ni 1.00
+newmtl pasted___4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd _4.jpg
+Ni 1.00
+newmtl useBackground1SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
