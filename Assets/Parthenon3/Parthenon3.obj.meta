@@ -3,7 +3,62 @@ guid: aa674edeb3b2df7498423e5d9e1608c8
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stones_v1_lambert11SG
+    second: {fileID: 2100000, guid: 8b9f5e90e0572174b9bd15814a6bdf12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stones_v1_rock_mat_v1SG
+    second: {fileID: 2100000, guid: 596780994a4625e41aa6974460b2263a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Brick_Tumbled
+    second: {fileID: 2100000, guid: ced62e8e16ac9674b9feb0cc52ce2462, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Color_003
+    second: {fileID: 2100000, guid: 7e12b1a63eb17364c8b6238918528beb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Color_007
+    second: {fileID: 2100000, guid: 6878593d160664244981776b111070a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Concrete_Aggregate_Smoke
+    second: {fileID: 2100000, guid: 970d4755f25950d4cb451930b0601fe2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Google_Earth_Snapshot
+    second: {fileID: 2100000, guid: e297dfc2c00aaa94ca15f0bcaaef0d1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Water_Sparkling
+    second: {fileID: 2100000, guid: 9cda54fc116c59f4dab7f61caa6ab1a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted___1
+    second: {fileID: 2100000, guid: 0e68350cee9b9f0498f6501389df1f88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted___3
+    second: {fileID: 2100000, guid: 6b5bdefb40a02e44db514acf6f3916d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted___4
+    second: {fileID: 2100000, guid: ecf6db1b856738f47a8be46c3447adcc, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
