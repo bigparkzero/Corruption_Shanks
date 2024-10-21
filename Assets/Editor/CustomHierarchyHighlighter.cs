@@ -22,11 +22,13 @@ public class CustomHierarchyHighlighter
                 // 배경 색상 설정
                 EditorGUI.DrawRect(selectionRect, highlight.highlightColor);
 
-                // 텍스트 중앙 정렬 여부에 따라 설정
+                // 텍스트 스타일 설정
                 GUIStyle style = new GUIStyle(GUI.skin.label)
                 {
                     alignment = highlight.centerText ? TextAnchor.MiddleCenter : TextAnchor.MiddleLeft, // 중앙 정렬 여부
-                    normal = new GUIStyleState() { textColor = highlight.textColor }
+                    normal = new GUIStyleState() { textColor = highlight.textColor },
+                    fontSize = highlight.fontSize,
+                    fontStyle = highlight.bold ? FontStyle.Bold : FontStyle.Normal // 굵게 쓰기 여부
                 };
 
                 // 텍스트를 중앙 또는 왼쪽에 배치

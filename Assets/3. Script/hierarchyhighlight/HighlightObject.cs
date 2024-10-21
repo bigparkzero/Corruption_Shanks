@@ -7,6 +7,8 @@ public class HighlightObject : MonoBehaviour
     public Color highlightColor = Color.yellow; // 기본 배경 색상
     public Color textColor = Color.red;         // 기본 텍스트 색상
     public bool centerText = true;               // 텍스트 중앙 정렬 여부
+    public int fontSize = 12;                    // 텍스트 크기
+    public bool bold = false;                    // 굵게 쓰기 여부
 
     // OnValidate는 값이 변경될 때마다 호출됨
     void OnValidate()
